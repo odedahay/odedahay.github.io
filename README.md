@@ -3,7 +3,7 @@
 This is my website portfolio, built previously using [https://jekyllrb.com/](https://jekyllrb.com/) Markdown, Liquid, HTML, and CSS go in, and static sites come out ready for deployment.
 
 
-<img src="/images/odedahay-github-io.jpg" />
+<img src="/images/odedahay-github-io-v2.jpg" />
 
 The Jekyll gem provides a [Jekyll Documentation](https://jekyllrb.com/) executable that you can use in your terminal.
 
