@@ -15,17 +15,20 @@ Examples:
     jekyll serve --config _alternative_config.yml
 
 
-## To run this app:
+### To run this app:
 
 First, run the development server:
 
 ```bash
 bundle exec jekyll serve
 
+```
 
-## Learn More
+### Learn More
 
 To learn more about Jekyll:
 
 - [Jekyll Documentation](https://jekyllrb.com/) - learn about Jekyll, a static site generator.
 - [Markdown Documentation](https://daringfireball.net/projects/markdown/) - learn more about Markdown
+
+
